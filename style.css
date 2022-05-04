@@ -1,0 +1,25 @@
+a {
+    font-size: 30px;
+    background-color: bisque;
+    color: goldenrod;
+    text-decoration: none;
+}
+a:hover {
+    color: chocolate;
+}
+
+.picture {
+    width: 400px;
+    height: auto;
+}
+
+.shokuzai {
+    font-size: 30px;
+    color: burlywood;
+}
+
+.steps {
+    font-size: 30px;
+    color: rgb(135, 168, 222);
+    font-weight: bold;
+}
