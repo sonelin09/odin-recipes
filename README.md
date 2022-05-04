@@ -1,2 +1,2 @@
 # odin-recipes
-html practice
+Just a html practice.
